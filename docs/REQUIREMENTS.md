@@ -31,7 +31,7 @@ Uma plataforma web onde utilizadores podem:
  - Posso ver o meu perfil
  - Posso editar informações do meu perfil
 
- ### 3.Funcionalidades Detalhadas
+ ## 3.Funcionalidades Detalhadas
 
  ### 3.1 Autenticação
  - Registo com email, username, password
